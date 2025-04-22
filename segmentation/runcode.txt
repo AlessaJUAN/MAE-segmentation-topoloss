@@ -1,0 +1,2 @@
+cd segmentation
+python main.py --ckpts pth/pretrain.pth --root data/shapenetcore_partanno_segmentation_benchmark_v0_normal --learning_rate 0.0002 --epoch 300

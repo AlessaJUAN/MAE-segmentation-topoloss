@@ -1,0 +1,267 @@
+2025-03-24 16:07:29,729 - Model - INFO - PARAMETER ...
+2025-03-24 16:07:29,729 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 16:07:29,832 - Model - INFO - The number of training data is: 13998
+2025-03-24 16:07:29,832 - Model - INFO - The number of test data is: 2874
+2025-03-24 16:07:32,547 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 20:29:37,766 - Model - INFO - PARAMETER ...
+2025-03-24 20:29:37,779 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 20:29:37,849 - Model - INFO - The number of training data is: 13998
+2025-03-24 20:29:37,849 - Model - INFO - The number of test data is: 2874
+2025-03-24 20:29:40,324 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 20:52:56,926 - Model - INFO - PARAMETER ...
+2025-03-24 20:52:56,926 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 20:52:56,995 - Model - INFO - The number of training data is: 13998
+2025-03-24 20:52:56,995 - Model - INFO - The number of test data is: 2874
+2025-03-24 20:52:59,485 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 20:53:56,960 - Model - INFO - PARAMETER ...
+2025-03-24 20:53:56,961 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 20:53:57,030 - Model - INFO - The number of training data is: 13998
+2025-03-24 20:53:57,030 - Model - INFO - The number of test data is: 2874
+2025-03-24 20:53:59,536 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 20:58:11,143 - Model - INFO - PARAMETER ...
+2025-03-24 20:58:11,143 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 20:58:11,212 - Model - INFO - The number of training data is: 13998
+2025-03-24 20:58:11,212 - Model - INFO - The number of test data is: 2874
+2025-03-24 20:58:13,689 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 20:59:17,900 - Model - INFO - PARAMETER ...
+2025-03-24 20:59:17,900 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 20:59:17,969 - Model - INFO - The number of training data is: 13998
+2025-03-24 20:59:17,969 - Model - INFO - The number of test data is: 2874
+2025-03-24 20:59:20,416 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:01:13,038 - Model - INFO - PARAMETER ...
+2025-03-24 21:01:13,038 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:01:13,107 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:01:13,107 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:01:15,591 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:03:52,491 - Model - INFO - PARAMETER ...
+2025-03-24 21:03:52,492 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:03:52,560 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:03:52,560 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:03:55,050 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:08:37,024 - Model - INFO - PARAMETER ...
+2025-03-24 21:08:37,024 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:08:37,093 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:08:37,093 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:08:39,594 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:10:25,862 - Model - INFO - PARAMETER ...
+2025-03-24 21:10:25,862 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:10:25,933 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:10:25,933 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:10:28,418 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:10:49,797 - Model - INFO - PARAMETER ...
+2025-03-24 21:10:49,797 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:10:49,868 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:10:49,868 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:10:52,368 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:17:56,355 - Model - INFO - PARAMETER ...
+2025-03-24 21:17:56,355 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:17:56,424 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:17:56,424 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:17:58,910 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:19:46,183 - Model - INFO - PARAMETER ...
+2025-03-24 21:19:46,183 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:19:46,252 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:19:46,252 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:19:48,735 - Model - INFO - Epoch 1 (1/300):
+2025-03-24 21:28:23,828 - Model - INFO - PARAMETER ...
+2025-03-24 21:28:23,839 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-24 21:28:23,921 - Model - INFO - The number of training data is: 13998
+2025-03-24 21:28:23,921 - Model - INFO - The number of test data is: 2874
+2025-03-24 21:28:26,422 - Model - INFO - Epoch 1 (1/300):
+2025-03-26 18:31:57,539 - Model - INFO - PARAMETER ...
+2025-03-26 18:31:57,539 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-26 18:31:57,608 - Model - INFO - The number of training data is: 13998
+2025-03-26 18:31:57,608 - Model - INFO - The number of test data is: 2874
+2025-03-26 18:34:43,713 - Model - INFO - PARAMETER ...
+2025-03-26 18:34:43,713 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-26 18:34:43,782 - Model - INFO - The number of training data is: 13998
+2025-03-26 18:34:43,782 - Model - INFO - The number of test data is: 2874
+2025-03-26 18:34:46,268 - Model - INFO - Epoch 1 (1/300):
+2025-03-26 18:35:46,286 - Model - INFO - PARAMETER ...
+2025-03-26 18:35:46,286 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-26 18:35:46,356 - Model - INFO - The number of training data is: 13998
+2025-03-26 18:35:46,356 - Model - INFO - The number of test data is: 2874
+2025-03-26 18:35:48,861 - Model - INFO - Epoch 1 (1/300):
+2025-03-26 18:40:31,584 - Model - INFO - PARAMETER ...
+2025-03-26 18:40:31,584 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-26 18:40:31,653 - Model - INFO - The number of training data is: 13998
+2025-03-26 18:40:31,653 - Model - INFO - The number of test data is: 2874
+2025-03-26 18:40:34,144 - Model - INFO - Epoch 1 (1/300):
+2025-03-26 18:42:42,632 - Model - INFO - PARAMETER ...
+2025-03-26 18:42:42,632 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-26 18:42:42,701 - Model - INFO - The number of training data is: 13998
+2025-03-26 18:42:42,701 - Model - INFO - The number of test data is: 2874
+2025-03-26 18:42:45,181 - Model - INFO - Epoch 1 (1/300):
+2025-03-26 18:45:11,071 - Model - INFO - PARAMETER ...
+2025-03-26 18:45:11,072 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-26 18:45:11,141 - Model - INFO - The number of training data is: 13998
+2025-03-26 18:45:11,141 - Model - INFO - The number of test data is: 2874
+2025-03-26 18:45:13,619 - Model - INFO - Epoch 1 (1/300):
+2025-03-27 17:22:10,266 - Model - INFO - PARAMETER ...
+2025-03-27 17:22:10,266 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-27 17:22:10,337 - Model - INFO - The number of training data is: 13998
+2025-03-27 17:22:10,337 - Model - INFO - The number of test data is: 2874
+2025-03-27 17:22:45,102 - Model - INFO - PARAMETER ...
+2025-03-27 17:22:45,102 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-27 17:22:45,174 - Model - INFO - The number of training data is: 13998
+2025-03-27 17:22:45,174 - Model - INFO - The number of test data is: 2874
+2025-03-27 17:27:45,113 - Model - INFO - PARAMETER ...
+2025-03-27 17:27:45,113 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-27 17:27:45,183 - Model - INFO - The number of training data is: 13998
+2025-03-27 17:27:45,184 - Model - INFO - The number of test data is: 2874
+2025-03-27 17:28:00,180 - Model - INFO - Epoch 1 (1/300):
+2025-03-28 13:45:11,420 - Model - INFO - PARAMETER ...
+2025-03-28 13:45:11,420 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-28 13:45:11,510 - Model - INFO - The number of training data is: 13998
+2025-03-28 13:45:11,510 - Model - INFO - The number of test data is: 2874
+2025-03-28 13:45:12,448 - Model - INFO - Epoch 1 (1/300):
+2025-03-28 13:45:30,629 - Model - INFO - PARAMETER ...
+2025-03-28 13:45:30,629 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-28 13:45:30,700 - Model - INFO - The number of training data is: 13998
+2025-03-28 13:45:30,700 - Model - INFO - The number of test data is: 2874
+2025-03-28 13:45:31,632 - Model - INFO - Epoch 1 (1/300):
+2025-03-28 13:46:21,761 - Model - INFO - PARAMETER ...
+2025-03-28 13:46:21,761 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-28 13:46:21,829 - Model - INFO - The number of training data is: 13998
+2025-03-28 13:46:21,830 - Model - INFO - The number of test data is: 2874
+2025-03-28 13:46:22,754 - Model - INFO - Epoch 1 (1/300):
+2025-03-28 13:46:51,847 - Model - INFO - PARAMETER ...
+2025-03-28 13:46:51,861 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-28 13:46:51,943 - Model - INFO - The number of training data is: 13998
+2025-03-28 13:46:51,943 - Model - INFO - The number of test data is: 2874
+2025-03-28 13:46:52,872 - Model - INFO - Epoch 1 (1/300):
+2025-03-28 13:47:09,082 - Model - INFO - PARAMETER ...
+2025-03-28 13:47:09,082 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-03-28 13:47:09,151 - Model - INFO - The number of training data is: 13998
+2025-03-28 13:47:09,151 - Model - INFO - The number of test data is: 2874
+2025-03-28 13:47:10,072 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 16:22:27,445 - Model - INFO - PARAMETER ...
+2025-04-11 16:22:27,445 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 16:26:12,126 - Model - INFO - PARAMETER ...
+2025-04-11 16:26:12,126 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth--/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal', root='../data/shapenetcore_partanno_segmentation_benchmark_v0_normal/')
+2025-04-11 16:26:12,195 - Model - INFO - The number of training data is: 13998
+2025-04-11 16:26:12,195 - Model - INFO - The number of test data is: 2874
+2025-04-11 16:28:20,502 - Model - INFO - PARAMETER ...
+2025-04-11 16:28:20,502 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 16:28:20,572 - Model - INFO - The number of training data is: 13998
+2025-04-11 16:28:20,572 - Model - INFO - The number of test data is: 2874
+2025-04-11 16:28:21,522 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 18:52:50,433 - Model - INFO - PARAMETER ...
+2025-04-11 18:52:50,433 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 18:52:50,503 - Model - INFO - The number of training data is: 13998
+2025-04-11 18:52:50,503 - Model - INFO - The number of test data is: 2874
+2025-04-11 18:52:51,451 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 18:59:20,929 - Model - INFO - PARAMETER ...
+2025-04-11 18:59:20,929 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 18:59:20,998 - Model - INFO - The number of training data is: 13998
+2025-04-11 18:59:20,998 - Model - INFO - The number of test data is: 2874
+2025-04-11 18:59:21,943 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 19:27:17,773 - Model - INFO - PARAMETER ...
+2025-04-11 19:27:17,773 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 19:27:17,843 - Model - INFO - The number of training data is: 13998
+2025-04-11 19:27:17,843 - Model - INFO - The number of test data is: 2874
+2025-04-11 19:27:18,772 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 19:41:26,054 - Model - INFO - PARAMETER ...
+2025-04-11 19:41:26,054 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 19:41:26,146 - Model - INFO - The number of training data is: 13998
+2025-04-11 19:41:26,146 - Model - INFO - The number of test data is: 2874
+2025-04-11 19:41:27,084 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 19:43:12,154 - Model - INFO - PARAMETER ...
+2025-04-11 19:43:12,154 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 19:43:12,223 - Model - INFO - The number of training data is: 13998
+2025-04-11 19:43:12,223 - Model - INFO - The number of test data is: 2874
+2025-04-11 19:43:13,158 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 19:53:05,024 - Model - INFO - PARAMETER ...
+2025-04-11 19:53:05,024 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 19:53:05,094 - Model - INFO - The number of training data is: 13998
+2025-04-11 19:53:05,094 - Model - INFO - The number of test data is: 2874
+2025-04-11 19:53:06,030 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 20:36:51,915 - Model - INFO - PARAMETER ...
+2025-04-11 20:36:51,915 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 20:36:51,984 - Model - INFO - The number of training data is: 13998
+2025-04-11 20:36:51,984 - Model - INFO - The number of test data is: 2874
+2025-04-11 20:36:52,924 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 20:44:52,645 - Model - INFO - PARAMETER ...
+2025-04-11 20:44:52,645 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 20:44:52,716 - Model - INFO - The number of training data is: 13998
+2025-04-11 20:44:52,716 - Model - INFO - The number of test data is: 2874
+2025-04-11 20:44:53,655 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 20:48:10,368 - Model - INFO - PARAMETER ...
+2025-04-11 20:48:10,368 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 20:48:10,438 - Model - INFO - The number of training data is: 13998
+2025-04-11 20:48:10,438 - Model - INFO - The number of test data is: 2874
+2025-04-11 20:48:11,384 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 20:52:08,753 - Model - INFO - PARAMETER ...
+2025-04-11 20:52:08,753 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 20:52:08,822 - Model - INFO - The number of training data is: 13998
+2025-04-11 20:52:08,822 - Model - INFO - The number of test data is: 2874
+2025-04-11 20:52:09,763 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 20:59:06,937 - Model - INFO - PARAMETER ...
+2025-04-11 20:59:06,937 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 20:59:07,006 - Model - INFO - The number of training data is: 13998
+2025-04-11 20:59:07,006 - Model - INFO - The number of test data is: 2874
+2025-04-11 20:59:07,942 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 20:59:44,031 - Model - INFO - PARAMETER ...
+2025-04-11 20:59:44,032 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 20:59:44,101 - Model - INFO - The number of training data is: 13998
+2025-04-11 20:59:44,101 - Model - INFO - The number of test data is: 2874
+2025-04-11 20:59:45,044 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 21:00:25,714 - Model - INFO - PARAMETER ...
+2025-04-11 21:00:25,714 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 21:00:25,783 - Model - INFO - The number of training data is: 13998
+2025-04-11 21:00:25,783 - Model - INFO - The number of test data is: 2874
+2025-04-11 21:00:26,722 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 21:16:46,721 - Model - INFO - PARAMETER ...
+2025-04-11 21:16:46,722 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 21:16:46,793 - Model - INFO - The number of training data is: 13998
+2025-04-11 21:16:46,793 - Model - INFO - The number of test data is: 2874
+2025-04-11 21:16:47,729 - Model - INFO - Epoch 1 (1/300):
+2025-04-11 21:32:22,899 - Model - INFO - PARAMETER ...
+2025-04-11 21:32:22,899 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-11 21:32:22,968 - Model - INFO - The number of training data is: 13998
+2025-04-11 21:32:22,968 - Model - INFO - The number of test data is: 2874
+2025-04-11 21:32:23,908 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 15:29:24,158 - Model - INFO - PARAMETER ...
+2025-04-16 15:29:24,158 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 15:29:24,227 - Model - INFO - The number of training data is: 13998
+2025-04-16 15:29:24,227 - Model - INFO - The number of test data is: 2874
+2025-04-16 15:31:03,648 - Model - INFO - PARAMETER ...
+2025-04-16 15:31:03,648 - Model - INFO - Namespace(model='pt', batch_size=16, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 15:31:03,717 - Model - INFO - The number of training data is: 13998
+2025-04-16 15:31:03,717 - Model - INFO - The number of test data is: 2874
+2025-04-16 15:31:04,661 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:00:09,524 - Model - INFO - PARAMETER ...
+2025-04-16 18:00:09,524 - Model - INFO - Namespace(model='pt', batch_size=4, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:00:09,593 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:00:09,593 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:00:10,533 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:01:03,098 - Model - INFO - PARAMETER ...
+2025-04-16 18:01:03,098 - Model - INFO - Namespace(model='pt', batch_size=2, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:01:03,168 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:01:03,168 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:01:04,101 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:23:36,019 - Model - INFO - PARAMETER ...
+2025-04-16 18:23:36,019 - Model - INFO - Namespace(model='pt', batch_size=2, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:23:36,089 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:23:36,090 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:23:37,037 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:26:46,344 - Model - INFO - PARAMETER ...
+2025-04-16 18:26:46,344 - Model - INFO - Namespace(model='pt', batch_size=2, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:26:46,413 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:26:46,413 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:26:47,371 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:29:15,841 - Model - INFO - PARAMETER ...
+2025-04-16 18:29:15,842 - Model - INFO - Namespace(model='pt', batch_size=2, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:29:15,911 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:29:15,912 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:29:16,854 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:30:07,270 - Model - INFO - PARAMETER ...
+2025-04-16 18:30:07,270 - Model - INFO - Namespace(model='pt', batch_size=2, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:30:07,338 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:30:07,338 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:30:08,283 - Model - INFO - Epoch 1 (1/300):
+2025-04-16 18:31:53,936 - Model - INFO - PARAMETER ...
+2025-04-16 18:31:53,936 - Model - INFO - Namespace(model='pt', batch_size=1, epoch=300, warmup_epoch=10, learning_rate=0.0002, gpu='0', log_dir='./exp', npoint=2048, normal=False, ckpts='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/pth/pretrain.pth', root='/home/stu/Documents/Point-MAE/Point-MAE-main-outofmemory-1/data/shapenetcore_partanno_segmentation_benchmark_v0_normal')
+2025-04-16 18:31:54,005 - Model - INFO - The number of training data is: 13998
+2025-04-16 18:31:54,005 - Model - INFO - The number of test data is: 2874
+2025-04-16 18:31:54,946 - Model - INFO - Epoch 1 (1/300):
